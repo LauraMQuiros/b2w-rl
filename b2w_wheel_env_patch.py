@@ -1,1 +1,0 @@
-# Patch: replace terminations class

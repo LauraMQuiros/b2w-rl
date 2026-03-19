@@ -1,4 +1,6 @@
 runs/
+ec2-backup/
+.quodo/
 outputs/
 *.pt
 *.pth
